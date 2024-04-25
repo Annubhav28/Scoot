@@ -54,7 +54,7 @@ header .collapse{display: flex; align-items: center; justify-content: space-betw
 
 
 /* Wrap-2 */
-.wrap-2{background: url(/images/indeximg2.webp) center center/cover no-repeat; color: #fff; padding: 120px 0; }
+.wrap-2{background: url(./images/indeximg2.webp) center center/cover no-repeat; color: #fff; padding: 120px 0; }
 .wrap-2 h2{font-size: 62px; line-height: 56px; color: inherit; margin-bottom: 40px;}
 .wrap-2 .content{margin-left: 50px;}
 .wrap-2 p{font-size: 1rem; line-height: 25px; margin-bottom: 40px;}
@@ -105,8 +105,13 @@ header .collapse{display: flex; align-items: center; justify-content: space-betw
 
 
 /* Wrap-7 */
+<<<<<<< HEAD
 .wrap-7{background: url(images/Mask.webp) center center/cover no-repeat; padding: 100px 0 100px 0;}
 .wrap-7 h2{color: #fff; font-size: 48px; letter-spacing: -2.14px; line-height: 48px; margin-bottom: 24px;}
+=======
+.wrap-7{background: url(./images/Mask.webp) center center/cover no-repeat; padding: 100px 0 100px 0;}
+.wrap-7 h2{color: #ffff; font-size: 48px; letter-spacing: -2.14px; line-height: 48px; margin-bottom: 24px;}
+>>>>>>> bf7a53fce99a1e2a8d971ae7cd7ecead0dc47766
 .wrap-7 a{color: #495567; background: #fff; padding: 14px 16px; display: flex; justify-content: center; align-items: center; margin-right: 10px; border-radius: 6px;}
 .wrap-7 p{color: #495567; font-size: 10px;}
 .wrap-7 .big{color: #495567; font-size: 20px; line-height: 24px; font-weight: bold;}
@@ -128,8 +133,13 @@ header .collapse{display: flex; align-items: center; justify-content: space-betw
 
 
 /* Wrap-9
+<<<<<<< HEAD
 .wrap-9{background: url(/Scoot/images/About.jpg) no-repeat; padding: 60px 0;}
 .wrap-9 h2{font-size: 48px; color: #333333; line-height: 56px;} */
+=======
+.wrap-9{background: url(./images/About.jpg) no-repeat; padding: 60px 0;}
+.wrap-9 h2{font-size: 48px; color: #fff; line-height: 56px;} */
+>>>>>>> bf7a53fce99a1e2a8d971ae7cd7ecead0dc47766
 
 
 /* Wrap-10 */
@@ -225,7 +235,7 @@ header .collapse{display: flex; align-items: center; justify-content: space-betw
     .wrap-2 h2{font-size: 56px; text-align: center;}
     .wrap-2 .content{text-align: center; margin-bottom: 60px;}
     header  button{padding: 14px 20px;}
-    .wrap-2{background: url(/images/Indeximg.webp) center center/cover no-repeat;}
+    .wrap-2{background: url(./images/Indeximg.webp) center center/cover no-repeat;}
     .wrap-3 .card{display: flex; margin-left: 50px; margin-bottom: 40px;}
     .wrap-3 .circle{margin-right: 60px;}
     .wrap-3::before{
